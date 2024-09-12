@@ -1,0 +1,6 @@
+@shifty.api_HostAddress = http://localhost:5127
+
+GET {{shifty.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
